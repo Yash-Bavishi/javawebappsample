@@ -7,11 +7,6 @@
   <artifactId>calculator</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
-	<properties>
-	 <maven.compiler.source>19</maven.compiler.source>
-	 <maven.compiler.target>19</maven.compiler.target>
-	 <java.version>19</java.version>
-</properties>
   <build>
     <plugins>
       <plugin>
